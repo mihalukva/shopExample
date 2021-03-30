@@ -1,0 +1,718 @@
+[
+  {
+    "id": "1",
+    "title": "Ноутбук ACER Aspire 7 A715-75G-56ZT, 15.6\", IPS, Intel Core i5 9300H 2.4ГГц, 8ГБ, 256ГБ SSD, NVIDIA GeForce GTX 1650 Ti - 4096 Мб, Eshell, NH.Q88ER.002, черный",
+    "description": "Надежным рабочим устройством как для дома, так и для офиса является ноутбук ACER Aspire 7 A715-75G-56ZT. Процессор Intel Core i5 9300H позволяет бесперебойно функционировать всем необходимым программам. Кроме того, он способствует стабильной работе ноутбука в мультизадачном режиме и при больших нагрузках. 8 Гб оперативной памяти ускоряют процессы обработки данных.\n15,6-дюймовый дисплей обладает высоким разрешением 1920х1080 и оптимальными углами обзора. Ноутбук ACER Aspire 7 A715-75G-56ZT оснащен видеокартой nVidia GeForce GTX 1650 Ti, которая гарантирует высокое качество графики. Твердотельный накопитель здесь имеет объем 256 Гб. Подключать необходимое оборудование и периферию позволяют эргономично расположенные порты и разъемы.!",
+    "code": "1217407",
+    "price": {
+      "old_price": 69990,
+      "current_price": 60990
+    },
+    "image": {
+      "preview": "images/1217407_1.jpg",
+      "full": [
+        "images/1217407_1.jpg",
+        "images/1217407_2.jpg",
+        "images/1217407_3.jpg",
+        "images/1217407_4.jpg",
+        "images/1217407_5.jpg",
+        "images/1217407_6.jpg"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "title": "Ноутбук ASUS Zenbook UM431DA-AM001, 14\", IPS, AMD Ryzen 5 3500U 2.1ГГц, 8ГБ, 256ГБ SSD, AMD Radeon Vega 8, noOS, 90NB0PB3-M02090, голубой",
+    "description": "Ультратонкий и очень легкий ноутбук Asus Zenbook UM431DA-AM001 отличается своей компактностью и мобильностью. При этом корпус данной модели изготовлен из прочного материала, защищающего внутренние компоненты от повреждений, а мощная батарея обеспечивает хорошим зарядом для долгой и продуктивной работы. Это позволяет брать устройство с собой в поездки, путешествия или просто работать вне офиса.\n Благодаря мощной аппаратной части в виде процессора AMD Ryzen 5 3500U, оперативной памяти DDR4 и графическому контроллеру AMD Radeon Vega 8 ежедневно успешно выполняются различные задачи по работе с офисными программами и дизайнерскими приложениями, загрузка нужной информации, а также просмотр видео контента. Дисплей ноутбука Asus Zenbook UM431DA-AM001 диагональю 14 дюймов отображает качественную, яркую и детализированную картинку. При этом радует наличие хорошей акустики, а также встроенной камеры с микрофоном для общения в мессенджерах или проведения онлайн-конференции.",
+    "code": "1197730",
+    "price": {
+      "old_price": 52990,
+      "current_price": 43990
+    },
+    "image": {
+      "preview": "images/1197730_1.jpg",
+      "full": [
+        "images/1197730_1.jpg",
+        "images/1197730_2.jpg",
+        "images/1197730_3.jpg",
+        "images/1197730_4.jpg"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "title": "Ноутбук ASUS VivoBook E402YA-FA031T, 14\", AMD E2 7015 1.5ГГц, 4ГБ, 64ГБ eMMC, AMD Radeon R2, Windows 10, 90NB0MF3-M03950, темно-синий",
+    "description": "Доступный по стоимости ноутбук ASUS VivoBook E402YA-FA031T окажется лучшим вариантом для решения большинства повседневных задач. Производитель оснастил его экраном, диагональ которого составляет 14 дюймов, а максимальное разрешение равно 1920х1080. Также, для повышения комфорта работы, имеется удобная светодиодная подсветка экрана. За оптимальную производительность для решения повседневных задач отвечает двухъядерный процессор AMD E2 7015.\n        Размер оперативной памяти в ноутбуке ASUS VivoBook E402YA-FA031T равен 4 Гб. Это обеспечивает наличие такого важного параметра, как быстродействие. Высококлассная картинка гарантирована наличием интегрированного графического контроллера AMD Radeon R2. Объем встроенной карты памяти eMMC равен 64 Гб. Здесь уже установлена операционная система Windows 10.",
+    "code": "1369281",
+    "price": {
+      "old_price": null,
+      "current_price": 30990
+    },
+    "image": {
+      "preview": "images/1369281_1.jpg",
+      "full": [
+        "images/1369281_1.jpg",
+        "images/1369281_2.jpg",
+        "images/1369281_3.jpg",
+        "images/1369281_4.jpg",
+        "images/1369281_5.jpg",
+        "images/1369281_6.jpg",
+        "images/1369281_7.jpg",
+        "images/1369281_8.jpg"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "title": "title_5",
+    "description": "description_5",
+    "code": "code_5",
+    "price": {
+      "old_price": 9999999,
+      "current_price": 100000
+    },
+    "image": {
+      "preview": "images/default.jpg",
+      "full": ["images/default.jpg"]
+    }
+  },
+  {
+    "id": "4",
+    "title": "Ультрабук HONOR MagicBook 14 Nbl-WAQ9HNR, 14\", IPS, AMD Ryzen 5 3500U 2.1ГГц, 8ГБ, 512ГБ SSD, AMD Radeon Vega 8, Windows 10, 53010VTY, серый",
+    "description": "Вы сможете выполнять абсолютно любые задачи с ноутбуком HONOR MagicBook 14 Nbl-WAQ9HNR. Работать с текстами, графическими редакторами, смотреть фильмы или играть в различные игры будет очень приятно благодаря диагонали экрана, которая составляет 14 дюймов. Здесь применяется матрица IPS с достаточно высоким разрешением 1920х1080 пикселей, что делает картинку невероятно четкой с очень высокой детализацией. Настройки изображения поддерживаются интегрированным графическим контроллером AMD Radeon Vega 8.\n        Можно открывать сразу несколько приложений на ноутбуке HONOR MagicBook 14 Nbl-WAQ9HNR, так как оперативная память типа DDR4 объемом 8192 Мб поразительно быстро обрабатывает и передает поступающую информацию. Выполнять четко и быстро сразу несколько команд может высокопроизводительный четырехъядерный процессор AMD Ryzen 5 3500U с тактовой частотой 2,1 ГГц. Жесткий диск типа SSD обладает объемом 512 Гб, что позволяет хранить большое количество информации.",
+    "code": "1366531",
+    "price": {
+      "old_price": null,
+      "current_price": 52990
+    },
+    "image": {
+      "preview": "images/1366531_1.jpg",
+      "full": [
+        "images/1366531_1.jpg",
+        "images/1366531_2.jpg",
+        "images/1366531_3.jpg",
+        "images/1366531_4.jpg",
+        "images/1366531_5.jpg",
+        "images/1366531_6.jpg",
+        "images/1366531_7.jpg"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "title": "title_6",
+    "description": "description_6",
+    "code": "code_6",
+    "price": {
+    "old_price": null,
+    "current_price": 6000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "7",
+    "title": "title_7",
+    "description": "description_7",
+    "code": "code_7",
+    "price": {
+    "old_price": null,
+    "current_price": 7000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "8",
+    "title": "title_8",
+    "description": "description_8",
+    "code": "code_8",
+    "price": {
+    "old_price": null,
+    "current_price": 8000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "9",
+    "title": "title_9",
+    "description": "description_9",
+    "code": "code_9",
+    "price": {
+    "old_price": null,
+    "current_price": 9000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "10",
+    "title": "title_10",
+    "description": "description_10",
+    "code": "code_10",
+    "price": {
+    "old_price": null,
+    "current_price": 10000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "11",
+    "title": "title_11",
+    "description": "description_11",
+    "code": "code_11",
+    "price": {
+    "old_price": null,
+    "current_price": 11000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "12",
+    "title": "title_12",
+    "description": "description_12",
+    "code": "code_12",
+    "price": {
+    "old_price": null,
+    "current_price": 12000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "13",
+    "title": "title_13",
+    "description": "description_13",
+    "code": "code_13",
+    "price": {
+    "old_price": null,
+    "current_price": 13000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "14",
+    "title": "title_14",
+    "description": "description_14",
+    "code": "code_14",
+    "price": {
+    "old_price": null,
+    "current_price": 14000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "15",
+    "title": "title_15",
+    "description": "description_15",
+    "code": "code_15",
+    "price": {
+    "old_price": null,
+    "current_price": 15000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "16",
+    "title": "title_16",
+    "description": "description_16",
+    "code": "code_16",
+    "price": {
+    "old_price": null,
+    "current_price": 16000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "17",
+    "title": "title_17",
+    "description": "description_17",
+    "code": "code_17",
+    "price": {
+    "old_price": null,
+    "current_price": 17000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "18",
+    "title": "title_18",
+    "description": "description_18",
+    "code": "code_18",
+    "price": {
+    "old_price": null,
+    "current_price": 18000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "19",
+    "title": "title_19",
+    "description": "description_19",
+    "code": "code_19",
+    "price": {
+    "old_price": null,
+    "current_price": 19000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "20",
+    "title": "title_20",
+    "description": "description_20",
+    "code": "code_20",
+    "price": {
+    "old_price": null,
+    "current_price": 20000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "21",
+    "title": "title_21",
+    "description": "description_21",
+    "code": "code_21",
+    "price": {
+    "old_price": null,
+    "current_price": 21000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "22",
+    "title": "title_22",
+    "description": "description_22",
+    "code": "code_22",
+    "price": {
+    "old_price": null,
+    "current_price": 22000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "23",
+    "title": "title_23",
+    "description": "description_23",
+    "code": "code_23",
+    "price": {
+    "old_price": null,
+    "current_price": 23000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "24",
+    "title": "title_24",
+    "description": "description_24",
+    "code": "code_24",
+    "price": {
+    "old_price": null,
+    "current_price": 24000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "25",
+    "title": "title_25",
+    "description": "description_25",
+    "code": "code_25",
+    "price": {
+    "old_price": null,
+    "current_price": 25000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "26",
+    "title": "title_26",
+    "description": "description_26",
+    "code": "code_26",
+    "price": {
+    "old_price": null,
+    "current_price": 26000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "27",
+    "title": "title_27",
+    "description": "description_27",
+    "code": "code_27",
+    "price": {
+    "old_price": null,
+    "current_price": 27000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "28",
+    "title": "title_28",
+    "description": "description_28",
+    "code": "code_28",
+    "price": {
+    "old_price": null,
+    "current_price": 28000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "29",
+    "title": "title_29",
+    "description": "description_29",
+    "code": "code_29",
+    "price": {
+    "old_price": null,
+    "current_price": 29000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "30",
+    "title": "title_30",
+    "description": "description_30",
+    "code": "code_30",
+    "price": {
+    "old_price": null,
+    "current_price": 30000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "31",
+    "title": "title_31",
+    "description": "description_31",
+    "code": "code_31",
+    "price": {
+    "old_price": null,
+    "current_price": 31000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "32",
+    "title": "title_32",
+    "description": "description_32",
+    "code": "code_32",
+    "price": {
+    "old_price": null,
+    "current_price": 32000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "33",
+    "title": "title_33",
+    "description": "description_33",
+    "code": "code_33",
+    "price": {
+    "old_price": null,
+    "current_price": 33000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "34",
+    "title": "title_34",
+    "description": "description_34",
+    "code": "code_34",
+    "price": {
+    "old_price": null,
+    "current_price": 34000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "35",
+    "title": "title_35",
+    "description": "description_35",
+    "code": "code_35",
+    "price": {
+    "old_price": null,
+    "current_price": 35000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "36",
+    "title": "title_36",
+    "description": "description_36",
+    "code": "code_36",
+    "price": {
+    "old_price": null,
+    "current_price": 36000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "37",
+    "title": "title_37",
+    "description": "description_37",
+    "code": "code_37",
+    "price": {
+    "old_price": null,
+    "current_price": 37000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "38",
+    "title": "title_38",
+    "description": "description_38",
+    "code": "code_38",
+    "price": {
+    "old_price": null,
+    "current_price": 38000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "39",
+    "title": "title_39",
+    "description": "description_39",
+    "code": "code_39",
+    "price": {
+    "old_price": null,
+    "current_price": 39000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "40",
+    "title": "title_40",
+    "description": "description_40",
+    "code": "code_40",
+    "price": {
+    "old_price": null,
+    "current_price": 40000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "41",
+    "title": "title_41",
+    "description": "description_41",
+    "code": "code_41",
+    "price": {
+    "old_price": null,
+    "current_price": 41000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "42",
+    "title": "title_42",
+    "description": "description_42",
+    "code": "code_42",
+    "price": {
+    "old_price": null,
+    "current_price": 42000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "43",
+    "title": "title_43",
+    "description": "description_43",
+    "code": "code_43",
+    "price": {
+    "old_price": null,
+    "current_price": 43000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "44",
+    "title": "title_44",
+    "description": "description_44",
+    "code": "code_44",
+    "price": {
+    "old_price": null,
+    "current_price": 44000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "45",
+    "title": "title_45",
+    "description": "description_45",
+    "code": "code_45",
+    "price": {
+    "old_price": null,
+    "current_price": 45000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "46",
+    "title": "title_46",
+    "description": "description_46",
+    "code": "code_46",
+    "price": {
+    "old_price": null,
+    "current_price": 46000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "47",
+    "title": "title_47",
+    "description": "description_47",
+    "code": "code_47",
+    "price": {
+    "old_price": null,
+    "current_price": 47000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "48",
+    "title": "title_48",
+    "description": "description_48",
+    "code": "code_48",
+    "price": {
+    "old_price": null,
+    "current_price": 48000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+},
+{
+    "id": "49",
+    "title": "title_49",
+    "description": "description_49",
+    "code": "code_49",
+    "price": {
+    "old_price": null,
+    "current_price": 49000
+    },
+    "image": {
+    "preview": "images/default.jpg",
+    "full": ["images/default.jpg"]
+    }
+}
+  
+]
